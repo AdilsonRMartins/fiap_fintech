@@ -1,0 +1,19 @@
+.largura-min {
+    min-width: 350px;
+}
+.bg-geral {
+    background-color: #D5D6DA;
+}
+.tam-f-s {
+    font-size:75%;
+}
+.bg-lista {
+    background-color: #dcddde;
+}
+.link-preto a {
+    color: black;
+    text-decoration: none;
+}
+.paragrafo-h {
+    line-height: 15%;
+}
